@@ -1,6 +1,6 @@
 ## Yo! It's Hayden.
 ### About me
-- 🖥️ Senior Computer Engineering Student @ San Jose State
+- 🖥️ Senior Computer Engineering Student @ San Jose State University
 - 🔭 Taken courses in Database Design, Microprocessor Design, Cybersecurity, Advanced Algo. Design, and more!
 - 🛠️ I've worked at..: Google (SWE Intern), SJSU Research Foundation (Undergrad Research Assistant (NLP))
 - ⚡ Current interests: Embedded Engineering, Game Design and Development, Artificial Intelligence
