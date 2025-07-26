@@ -1,4 +1,11 @@
-## Hi there 👋
+## Yo! It's Hayden.
+### About me
+- 🖥️ Senior Computer Engineering Student @ San Jose State
+- 🔭 Taken courses in Database Design, Microprocessor Design, Cybersecurity, Advanced Algo. Design, and more!
+- 🛠️ I've worked at..: Google (SWE Intern), SJSU Research Foundation (
+- ⚡ Current interests: Embedded Engineering, Game Design and Development, Artificial Intelligence
+- 🧠 Currently learning: [Game Agent AI](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning), [2D Game Programming](https://therealpenaz91.itch.io/2dgd-f0th), [ARM Development w/ STM32](https://www.carminenoviello.com/mastering-stm32/)
+
 
 <!--
 **haydenjones-ml/haydenjones-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
