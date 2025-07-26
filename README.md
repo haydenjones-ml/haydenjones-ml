@@ -2,7 +2,7 @@
 ### About me
 - 🖥️ Senior Computer Engineering Student @ San Jose State University
 - 🔭 Taken courses in Database Design, Microprocessor Design, Cybersecurity, Advanced Algo. Design, and more!
-- 🛠️ I've worked at..: Google (SWE Intern), SJSU Research Foundation (Undergrad Research Assistant (NLP))
+- 🛠️ I've worked at..: Google (SWE Intern), SJSU Research Foundation (Undergrad Research Assistant)
 - ⚡ Current interests: Embedded Engineering, Game Design and Development, Artificial Intelligence
 - 🧠 Currently learning: [Game Agent AI](https://www.kaggle.com/learn/intro-to-game-ai-and-reinforcement-learning), [2D Game Programming](https://therealpenaz91.itch.io/2dgd-f0th), [ARM Development w/ STM32](https://www.carminenoviello.com/mastering-stm32/)
 
